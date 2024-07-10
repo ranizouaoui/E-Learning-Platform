@@ -1,0 +1,20 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "ElearningApplication",
+            "request": "launch",
+            "mainClass": "in.pfe.elearning.ElearningApplication",
+            "projectName": "elearning"
+        },
+        {
+            "type": "java",
+            "name": "Launch YourApp",
+            "request": "launch",
+            "mainClass": "in.pfe.elearning.ElearningApplication",
+            "projectName": "elearning",
+            "vmArgs": "--add-opens java.base/javax.security.auth=ALL-UNNAMED"
+        }
+    ]
+}
