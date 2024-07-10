@@ -1,8 +1,9 @@
 # E-Learning Platform
 
 ## Overview
-A responsive e-learning platform developed with **Next.js** and **Spring Boot** using **Tailwind CSS**. The platform supports multiple user roles: admin, teacher, and parent. Parents can enroll their children and pay for live courses.
 ![Home Page](./Pictures/home.png)
+A responsive e-learning platform developed with **Next.js** and **Spring Boot** using **Tailwind CSS**. The platform supports multiple user roles such as admin, teacher and parent. Parents can enroll their children and pay for live courses.
+ 
 
 ## Features
 - **Responsive Design**: Adapted for various devices (desktops, tablets, smartphones).
@@ -40,7 +41,7 @@ A responsive e-learning platform developed with **Next.js** and **Spring Boot** 
 - **Back-end:** The Spring Boot API will be running at http://localhost:8080
 
 
-## Screenshots
+## App preview
 
 ### Sign In
 ![Sign In](./Pictures/sign-in.png)
@@ -61,3 +62,10 @@ A responsive e-learning platform developed with **Next.js** and **Spring Boot** 
 ![Student Dashboard 1](./Pictures/student-1.png)
 ![Student Dashboard 2](./Pictures/student-2.png)
 
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+ ## Want more details?
+ 
+ For more details or if you want to recommend me for other projects. Just contact me on my email: <strong> ranizouaouicontact@gmail.com </strong>
