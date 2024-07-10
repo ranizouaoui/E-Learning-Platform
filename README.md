@@ -1,7 +1,8 @@
 # E-Learning Platform
 
-## Description
+## Overview
 A responsive e-learning platform developed with **Next.js** and **Spring Boot** using **Tailwind CSS**. The platform supports multiple user roles: admin, teacher, and parent. Parents can enroll their children and pay for live courses.
+![Home Page](./Pictures/home.png)
 
 ## Features
 - **Responsive Design**: Adapted for various devices (desktops, tablets, smartphones).
@@ -16,23 +17,22 @@ A responsive e-learning platform developed with **Next.js** and **Spring Boot** 
 - **Front-end**: [Next.js](https://nextjs.org/), [Tailwind CSS](https://tailwindcss.com/)
 - **Back-end**: [Spring Boot](https://spring.io/projects/spring-boot)
 
-## Installation
+## Manual Setup
 
-### Prerequisites
-- Node.js
-- npm or yarn
-- Java
-- Maven
+ <blockquote>
+<p dir="auto">Make sure Docker is installed.</p>
+</blockquote>
 
 ### Instructions
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-username/repository-name.git
-   cd repository-name
+   git clone https://github.com/ranizouaoui/E-Learning-Platform
+   cd E-Learning-Platform
    ```
 2. **Build the Docker images and start the containers::**
    ```bash
-docker-compose up --build
+    docker-compose up --build
+   ```
 
 3. **Build the Docker images and start the containers::**
 
@@ -41,9 +41,6 @@ docker-compose up --build
 
 
 ## Screenshots
-
-### Home Page
-![Home Page](./Pictures/home.png)
 
 ### Sign In
 ![Sign In](./Pictures/sign-in.png)
