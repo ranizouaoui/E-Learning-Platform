@@ -62,6 +62,11 @@ A responsive e-learning platform developed with **Next.js** and **Spring Boot** 
 ![Student Dashboard 1](./Pictures/student-1.png)
 ![Student Dashboard 2](./Pictures/student-2.png)
 
+
+## API Documentation (Swagger)
+
+API documentation is available via Swagger. After running the application, visit http://localhost:8080/swagger-ui/index.html#/ to view the Swagger documentation.
+
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
